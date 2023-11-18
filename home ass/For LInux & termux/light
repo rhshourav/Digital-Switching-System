@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "Switching Light"
+
+curl 192.168.0.100/light &
+curl 192.168.0.101/light &
+curl 192.168.0.102/light &
+curl 192.168.0.103/light &
+curl 192.168.0.104/light &
+curl 192.168.0.105/light &
+curl 192.168.0.106/light &
+curl 192.168.0.107/light &
+curl 192.168.0.108/light &
+curl 192.168.0.109/light &
+curl 192.168.0.110/light &
+curl 192.168.0.111/light &
+curl 192.168.0.112/light &

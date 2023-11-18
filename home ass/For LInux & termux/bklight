@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "Switching Back Light"
+
+curl 192.168.0.100/bklight &
+curl 192.168.0.101/bklight &
+curl 192.168.0.102/bklight &
+curl 192.168.0.103/bklight &
+curl 192.168.0.104/bklight &
+curl 192.168.0.105/bklight &
+curl 192.168.0.106/bklight &
+curl 192.168.0.107/bklight &
+curl 192.168.0.108/bklight &
+curl 192.168.0.109/bklight &
+curl 192.168.0.110/bklight &
+curl 192.168.0.111/bklight &
+curl 192.168.0.112/bklight &

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo chmod +x *
+
+sudo cp * /usr/bin

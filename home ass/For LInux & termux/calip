@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "Switching Function Cal IP"
+
+curl 192.168.0.100/calip &
+curl 192.168.0.101/calip &
+curl 192.168.0.102/calip &
+curl 192.168.0.103/calip &
+curl 192.168.0.104/calip &
+curl 192.168.0.105/calip &
+curl 192.168.0.106/calip &
+curl 192.168.0.107/calip &
+curl 192.168.0.108/calip &
+curl 192.168.0.109/calip &
+curl 192.168.0.110/calip &
+curl 192.168.0.111/calip &
+curl 192.168.0.112/calip &

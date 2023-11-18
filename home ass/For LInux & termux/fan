@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "Switching Fan"
+
+curl 192.168.0.100/fan &
+curl 192.168.0.101/fan &
+curl 192.168.0.102/fan &
+curl 192.168.0.103/fan &
+curl 192.168.0.104/fan &
+curl 192.168.0.105/fan &
+curl 192.168.0.106/fan &
+curl 192.168.0.107/fan &
+curl 192.168.0.108/fan &
+curl 192.168.0.109/fan &
+curl 192.168.0.110/fan &
+curl 192.168.0.111/fan &
+curl 192.168.0.112/fan &

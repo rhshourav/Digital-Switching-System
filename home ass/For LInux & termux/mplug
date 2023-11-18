@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "Switching Function Plug"
+
+curl 192.168.0.100/buztest &
+curl 192.168.0.101/buztest &
+curl 192.168.0.102/buztest &
+curl 192.168.0.103/buztest &
+curl 192.168.0.104/buztest &
+curl 192.168.0.105/buztest &
+curl 192.168.0.106/buztest &
+curl 192.168.0.107/buztest &
+curl 192.168.0.108/buztest &
+curl 192.168.0.109/buztest &
+curl 192.168.0.110/buztest &
+curl 192.168.0.111/buztest &
+curl 192.168.0.112/buztest &
