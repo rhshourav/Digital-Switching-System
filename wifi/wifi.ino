@@ -16,8 +16,8 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 
 // local network name and password
-const char* ssid = "Home";
-const char* password = "home1111";
+const char* ssid = "*************";
+const char* password = "*********";
 
 //globla variables
 int bklightvar = 0 ;
